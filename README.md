@@ -35,28 +35,28 @@ All related documents are stored in the January folder.
 
 ## Repository Structure
 
-ai-cloud-internship-2026/
-│
-├── README.md
-│
-├── January-2026/
-│   ├── Task-1-RAG/
-│   │   ├── task-1-rag-company-knowledge.docx
-│   │   └── README.md
-│   │
-│   ├── Task-2-Automation/
-│   │   ├── task-2-ai-agents-automation.docx
-│   │   └── README.md
-│   │
-│   ├── Task-3-Integrations/
-│   │   ├── task-3-integrations-node-mastery.docx
-│   │   └── README.md
-│   │
-│   └── Task-4-UIUX-Research/
-│       ├── task-4-uiux-research-ai-tools.docx
-│       └── README.md
-│
-└── Future-Months/
+ai-cloud-internship-2026/<br>
+│<br>
+├── README.md<br>
+│<br>
+├── January-2026/<br>
+│   ├── Task-1-RAG/<br>
+│   │   ├── task-1-rag-company-knowledge.docx<br>
+│   │   └── README.md<br>
+│   │<br>
+│   ├── Task-2-Automation/<br>
+│   │   ├── task-2-ai-agents-automation.docx<br>
+│   │   └── README.md<br>
+│   │<br>
+│   ├── Task-3-Integrations/<br>
+│   │   ├── task-3-integrations-node-mastery.docx<br>
+│   │   └── README.md<br>
+│   │<br>
+│   └── Task-4-UIUX-Research/<br>
+│       ├── task-4-uiux-research-ai-tools.docx<br>
+│       └── README.md<br>
+│<br>
+└── Future-Months/<br>
 
 ---
 
